@@ -46,6 +46,6 @@ You are free to use and share this project for non-commercial purposes, includin
 
 ## About
 
-Built by Ishaan [Last Name], a high school student at Lambert High School in Georgia with an interest in mechanical engineering and physics education.
+Built by Ishaan Sharma, a high school student at Lambert High School in Georgia with an interest in mechanical engineering and physics education.
 
 Questions or feedback? Open an issue on this repository.
